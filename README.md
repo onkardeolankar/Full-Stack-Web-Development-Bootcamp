@@ -3,7 +3,8 @@
 Link: https://docs.google.com/spreadsheets/d/1TDZdaT_laRTI5EN25hvF_ordfpBYZsNA/edit?usp=sharing&ouid=116507026420569774019&rtpof=true&sd=true
 
 <hr>
-- [HTML/CSS](https://www.w3schools.com/)
+
+- HTML/CSS (https://www.w3schools.com/)
 
 - [Javascript]
   - [Harshit Vashisth](https://www.youtube.com/watch?v=chx9Rs41W6g&list=PLwgFb6VsUj_n15Cg_y2ULKfsOR1XiQqPx)
