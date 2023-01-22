@@ -1,6 +1,6 @@
 # Full Stack Web Development Bootcamp
 
-**Here are few of the courses that will make you a pro in web devlopment**
+**Here are few of the courses that will make you a pro in web devlopment :)**
 
 - [HTML/CSS](https://www.w3schools.com/)
 
